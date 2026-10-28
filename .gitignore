@@ -1,0 +1,5 @@
+.DS_Store
+__pycache__/
+# NAVER's own content, re-created by collect_isan.sh; not redistributed
+raw_json/
+data/table_*.md
